@@ -49,7 +49,7 @@ Data Cleaning · EDA · Dashboarding · Optimization Models · A/B Testing · Co
 
 📫 Email: abm36@uw.edu  
 🔗 [LinkedIn](https://linkedin.com/in/abdullahbinmuhammad/)  
-🌐 Portfolio (in progress): [yourusername.github.io](https://github.com/yourusername/yourusername)
+🌐 Portfolio (in progress): [abdullahbm12.github.io](https://github.com/yourusername/yourusername)
 
 ---
 
